@@ -2,12 +2,40 @@
 #EXTINF:-1 tvg-name="Das Erste",ARD
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="ZDF",Rana Dibeh
-https://www.joyn.de/play/live-tv?channel_id=1007&from=/live-tv/arte
+https://www.joyn.de/play/live-tv?channel_id=124&from=/live-tv/zdf-info
+#EXTINF:-1 tvg-name="ZDF",Rana Dibeh
+https://www.joyn.de/play/live-tv?channel_id=123&from=%2F
 #EXTINF:-1,ZDF neo
-http://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+https://www.joyn.de/play/live-tv?channel_id=124&from=%2Flive-tv
 #EXTINF:-1,ARTE DE
-https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
+https://www.joyn.de/play/live-tv?channel_id=1007&from=/live-tv/arte
 #EXTINF:-1,3Sat
-https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
-#EXTINF:-1,DW
-https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/index.m3u8
+https://www.joyn.de/play/live-tv?channel_id=1006&from=%2Flive-tv
+#EXTINF:-1,SIXX
+https://www.joyn.de/play/live-tv?channel_id=4&from=%2Flive-tv
+#EXTINF:-1,Euro Sport
+https://www.joyn.de/play/live-tv?channel_id=122&from=%2Flive-tv
+#EXTINF:-1,DMAX
+https://www.joyn.de/play/live-tv?channel_id=110&from=%2Flive-tv
+#EXTINF:-1,SAT 1
+https://www.joyn.de/play/live-tv?channel_id=2&from=%2Fmediatheken%2Fsat1
+#EXTINF:-1,PRO 7
+https://www.joyn.de/play/live-tv?channel_id=1&from=/mediatheken/prosieben
+#EXTINF:-1,Kabel 1
+https://www.joyn.de/play/live-tv?channel_id=3&from=%2Fmediatheken%2Fkabel-eins
+#EXTINF:-1,7 MAXX
+https://www.joyn.de/play/live-tv?channel_id=5&from=%2Fmediatheken%2Fprosieben-maxx
+#EXTINF:-1,SIXX
+https://www.joyn.de/play/live-tv?channel_id=4&from=%2Fmediatheken%2Fsixx
+#EXTINF:-1,RTL GOLD
+https://www.joyn.de/play/live-tv?channel_id=6&from=%2Fmediatheken%2Fsat1-gold
+#EXTINF:-1,DMAX
+https://www.joyn.de/play/live-tv?channel_id=110&from=/mediatheken/dmax
+#EXTINF:-1,TLC
+https://www.joyn.de/play/live-tv?channel_id=111&from=/mediatheken/tlc
+#EXTINF:-1,TELE 5
+https://www.joyn.de/play/live-tv?channel_id=1026&from=/mediatheken/tele-5
+#EXTINF:-1,ARTE
+https://www.joyn.de/play/live-tv?channel_id=1007&from=%2F
+#EXTINF:-1,3 SAT
+https://www.joyn.de/play/live-tv?channel_id=1006&from=%2F
