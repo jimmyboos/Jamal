@@ -1,5 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Das Erste",ARD
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
-#EXTINF:-1 tvg-name="ZDF",ZDF
+#EXTINF:-1 tvg-name="ZDF",Rana Dibeh
 https://www.zdf.de/play/live-tv/sender/zdf-live-beitrag-100
+#EXTINF:-1,ZDF neo
+http://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+#EXTINF:-1,ARTE DE
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
+#EXTINF:-1,3Sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+#EXTINF:-1,DW
+https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/index.m3u8
