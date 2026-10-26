@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Das Erste" 
+#EXTINF:-1 tvg-name="Das Erste",ARD
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
-
-#EXTINF:-1 tvg-name="ZDF"
+#EXTINF:-1 tvg-name="ZDF",ZDF
 http://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
