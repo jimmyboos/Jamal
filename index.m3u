@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="Das Erste",ARD
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="ZDF",Rana Dibeh
-https://www.joyn.de/play/live-tv?channel_id=124&from=/live-tv/zdf-info
+https://tvexplorer.live/project/branding/brands/tv-explorer/media
 #EXTINF:-1 tvg-name="ZDF",Rana Dibeh
 https://www.joyn.de/play/live-tv?channel_id=123&from=%2F
 #EXTINF:-1,ZDF neo
